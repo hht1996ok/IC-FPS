@@ -1,5 +1,6 @@
 # IC-FPS: Instance-Centroid Faster Point Sampling Module for 3D Point-base Object Detection
  ![IC-FPS](./Fig2.png)
+ [paper](https://arxiv.org/abs/2303.17921)
 
 ## News
 + **2023.4.6**  create README.md
