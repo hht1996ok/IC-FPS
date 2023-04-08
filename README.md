@@ -25,10 +25,13 @@ Performance indexes follow the same configurations given in [IA-SSD](https://git
 
 ### Visualization results
 ![ ](./Fig4.png)
+Visulization results of Waymo dataset Vehicle. (a)ground-truth, (b) IA-SSD, (c) IC-FPS+IA-SSD. Red boxes represent differences of various results.
 ![ ](./Fig8.png)
+Complementary visualization of Waymo Dataset Pedestrian, (a) ground truth, (b) IA-SSD, (c) IC-FPS + IA-SSD. Bounding boxes in red are the difference, green are the Pedestrian.
 ![ ](./Fig9.png)
+Complementary visualization of Waymo Dataset Cyclist. (a) ground truth, (b) IA-SSD, (c) IC-FPS + IA-SSD. Boundingboxes in red are the difference, purple are the cyclist.
 ![ ](./Fig10.png)
-
+Complementary visualization of our methods on nuScenes Dataset.
 ## Use IC-FPS
 ### install and date preparation
 For environment installation method, please refer to [IA-SSD](https://github.com/yifanzhang713/IA-SSD).
