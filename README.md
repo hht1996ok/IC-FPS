@@ -7,7 +7,7 @@
  
 ## Main Result
 ### Waymo detection validation
-![ ](./Waymo val.png)
+![ ](./Waymoval.png)
 Quantitative comparison experiments on the Waymo val set for 3D object detection. 20% of training set ( 32K) is used for
 training. 
 
@@ -15,12 +15,12 @@ Quantitative comparsion experiments on Waymo val set for 3D object detection. â€
 four parts to accelerate SA layer. Bold texts are our results and the best results are underlined.
 
 ### ONCE detection validation
-![ ](./once val.png)
+![ ](./onceval.png)
 Quantitative comparison experiments on ONCE validation set. Bold texts are our results, underlined texts are the best results.
 Performance indexes follow the same configurations given in [IA-SSD](https://github.com/yifanzhang713/IA-SSD)
 
 ### nuScenes detection validation
-![ ](./nuscenes val.png)
+![ ](./nuscenesval.png)
 
 
 ### Visualization results
