@@ -10,7 +10,7 @@
 ![ ](./Waymoval.png)
 Quantitative comparison experiments on the Waymo val set for 3D object detection. 20% of training set ( 32K) is used for
 training. 
-
+![ ](./Waymoval2.png)
 Quantitative comparsion experiments on Waymo val set for 3D object detection. † indicates that the whole scene is divided into
 four parts to accelerate SA layer. Bold texts are our results and the best results are underlined.
 
